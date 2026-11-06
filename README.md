@@ -12,7 +12,7 @@ DevOps and platform engineer in Switzerland. I build infrastructure where the wh
 **Selected work**
 
 - [nixos-fleet-pipeline](https://github.com/marcothedood/nixos-fleet-pipeline): CI builds the exact system each node runs; nodes pull, switch and roll back on their own
-- [wpbox](https://github.com/marcothedood/wpbox): architecture of the NixOS platform behind ~40 production WordPress sites
+- [wpbox](https://github.com/marcothedood/wpbox): architecture of the NixOS platform behind ~45 production WordPress sites
 - [nixos-anywhere](https://github.com/Martel-IT/nixos-anywhere): NixOS bootstrap with disko for x86 and Graviton nodes
 - [eros4nrg](https://github.com/marcothedood/eros4nrg): Kubernetes data platform for the NEMO Horizon Europe project (Kustomize, Flux, EKS)
 - [odoo16-nixos](https://github.com/marcothedood/odoo16-nixos): Odoo on NixOS from a single flake
